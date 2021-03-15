@@ -1,0 +1,636 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "list": [
+      {
+        "appInfo": {
+          "id": 1116,
+          "appKey": "283d0757c66e49ca9014bd9b6d3ab4f5",
+          "productId": 154,
+          "productKey": "other.product",
+          "appType": 1,
+          "appName": "testpermission",
+          "appNameEn": "testpermission",
+          "packageName": null,
+          "bundleId": null,
+          "appleId": null,
+          "repository": "test",
+          "branch": "master",
+          "prefix": null,
+          "applicant": "dongliang28",
+          "owner": null,
+          "createTime": 1609293795000,
+          "updateTime": 1609293795000,
+          "icon": null,
+          "actived": 2,
+          "opened": 0,
+          "locked": 0,
+          "test": 0,
+          "roleKey": "MANAGER"
+        },
+        "subsystemAppKeyMap": {},
+        "subsystemAppIdMap": {
+          "shooter": 1163
+        }
+      },
+      {
+        "appInfo": {
+          "id": 1115,
+          "appKey": "bc6543a9f2a747cab23da54d85bc77c3",
+          "productId": 154,
+          "productKey": "other.product",
+          "appType": 1,
+          "appName": "测试aura应用mqp",
+          "appNameEn": "testauramqp",
+          "packageName": "com.jd.app.aura",
+          "bundleId": null,
+          "appleId": null,
+          "repository": null,
+          "branch": "master",
+          "prefix": null,
+          "applicant": "mengqingpan",
+          "owner": "mengqingpan",
+          "createTime": 1609152342000,
+          "updateTime": 1609152342000,
+          "icon": null,
+          "actived": 2,
+          "opened": 0,
+          "locked": 0,
+          "test": 0,
+          "roleKey": "MANAGER"
+        },
+        "subsystemAppKeyMap": {
+          "shooter":"shooterAppkeyTest"
+        },
+        "subsystemAppIdMap": {
+          "shooter": 1162
+        }
+      },
+      {
+        "appInfo": {
+          "id": 1114,
+          "appKey": "5d3876ce86374dfa9940c65349d3ff30",
+          "productId": 44,
+          "productKey": "datacenter",
+          "appType": 1,
+          "appName": "H5离线包测试",
+          "appNameEn": null,
+          "packageName": null,
+          "bundleId": null,
+          "appleId": null,
+          "repository": null,
+          "branch": null,
+          "prefix": null,
+          "applicant": "mayanyan3",
+          "owner": null,
+          "createTime": 1608258623000,
+          "updateTime": 1608258623000,
+          "icon": null,
+          "actived": null,
+          "opened": 0,
+          "locked": 0,
+          "test": 0,
+          "roleKey": "MANAGER"
+        },
+        "subsystemAppKeyMap": {},
+        "subsystemAppIdMap": {
+          "shooter": 1161
+        }
+      },
+      {
+        "appInfo": {
+          "id": 1113,
+          "appKey": "e671740895fc40d0b7c25c5c1bb83125",
+          "productId": 154,
+          "productKey": "other.product",
+          "appType": 1,
+          "appName": "testbuildconfig",
+          "appNameEn": "testbuildconfig",
+          "packageName": null,
+          "bundleId": null,
+          "appleId": null,
+          "repository": "testbuildconfig",
+          "branch": "master",
+          "prefix": null,
+          "applicant": "dongliang28",
+          "owner": "dongliang28",
+          "createTime": 1608116772000,
+          "updateTime": 1608884656000,
+          "icon": null,
+          "actived": 2,
+          "opened": 0,
+          "locked": 1,
+          "test": 0,
+          "roleKey": "MANAGER"
+        },
+        "subsystemAppKeyMap": {},
+        "subsystemAppIdMap": {
+          "shooter": 1160
+        }
+      },
+      {
+        "appInfo": {
+          "id": 1112,
+          "appKey": "a149df60d5c040c68d41f52b138c2b36",
+          "productId": 154,
+          "productKey": "other.product",
+          "appType": 1,
+          "appName": "京东医生自建测试",
+          "appNameEn": "jddoctor",
+          "packageName": null,
+          "bundleId": null,
+          "appleId": null,
+          "repository": "dfd",
+          "branch": "master",
+          "prefix": "com.jd.test",
+          "applicant": "zhangzhiqiang8",
+          "owner": "zhangzhiqiang8",
+          "createTime": 1608116291000,
+          "updateTime": 1608116307000,
+          "icon": null,
+          "actived": 2,
+          "opened": 0,
+          "locked": 0,
+          "test": 0,
+          "roleKey": "MANAGER"
+        },
+        "subsystemAppKeyMap": {},
+        "subsystemAppIdMap": {
+          "shooter": 1159
+        }
+      },
+      {
+        "appInfo": {
+          "id": 1111,
+          "appKey": "bb7c6ba6ac854b68beeecaf63d0ac30c",
+          "productId": 154,
+          "productKey": "other.product",
+          "appType": 1,
+          "appName": "子龙测试应用1216",
+          "appNameEn": "zilongnewtest",
+          "packageName": null,
+          "bundleId": null,
+          "appleId": null,
+          "repository": "git@git.jd.com:aura1111-amons/aura1111.git",
+          "branch": "master",
+          "prefix": null,
+          "applicant": "liuzilong6",
+          "owner": null,
+          "createTime": 1608102920000,
+          "updateTime": 1608102920000,
+          "icon": null,
+          "actived": 2,
+          "opened": 0,
+          "locked": 0,
+          "test": 0,
+          "roleKey": "MANAGER"
+        },
+        "subsystemAppKeyMap": {},
+        "subsystemAppIdMap": {
+          "shooter": 1158
+        }
+      },
+      {
+        "appInfo": {
+          "id": 1110,
+          "appKey": "47a01b9dcb5c44e19581d2da599468ba",
+          "productId": 154,
+          "productKey": "other.product",
+          "appType": 2,
+          "appName": "其他产品",
+          "appNameEn": null,
+          "packageName": null,
+          "bundleId": null,
+          "appleId": null,
+          "repository": null,
+          "branch": null,
+          "prefix": null,
+          "applicant": "fengpingyue",
+          "owner": null,
+          "createTime": 1608089209000,
+          "updateTime": 1608089209000,
+          "icon": null,
+          "actived": null,
+          "opened": 0,
+          "locked": 0,
+          "test": 0,
+          "roleKey": "MANAGER"
+        },
+        "subsystemAppKeyMap": {},
+        "subsystemAppIdMap": {
+          "shooter": 1157
+        }
+      },
+      {
+        "appInfo": {
+          "id": 1109,
+          "appKey": "3c652995d6604407aac47c1c72f89f49",
+          "productId": 44,
+          "productKey": "datacenter",
+          "appType": 2,
+          "appName": "h5离线包IOS",
+          "appNameEn": null,
+          "packageName": null,
+          "bundleId": null,
+          "appleId": null,
+          "repository": null,
+          "branch": null,
+          "prefix": null,
+          "applicant": "mayanyan3",
+          "owner": null,
+          "createTime": 1608013635000,
+          "updateTime": 1608013635000,
+          "icon": null,
+          "actived": null,
+          "opened": 0,
+          "locked": 0,
+          "test": 0,
+          "roleKey": "MANAGER"
+        },
+        "subsystemAppKeyMap": {},
+        "subsystemAppIdMap": {
+          "shooter": 1156
+        }
+      },
+      {
+        "appInfo": {
+          "id": 1108,
+          "appKey": "d7c6deb3c8e848dfa908ddc2d9737131",
+          "productId": 154,
+          "productKey": "other.product",
+          "appType": 1,
+          "appName": "aaab",
+          "appNameEn": "aaab",
+          "packageName": "com.jd.test",
+          "bundleId": null,
+          "appleId": null,
+          "repository": "http://git.jd.com/aaab-amons/aaab.git",
+          "branch": "master",
+          "prefix": "com.jd.test",
+          "applicant": "zhangzhiqiang8",
+          "owner": "zhangzhiqiang8",
+          "createTime": 1608013223000,
+          "updateTime": 1608122232000,
+          "icon": null,
+          "actived": 2,
+          "opened": 0,
+          "locked": 0,
+          "test": 0,
+          "roleKey": "MANAGER"
+        },
+        "subsystemAppKeyMap": {},
+        "subsystemAppIdMap": {
+          "shooter": 1155
+        }
+      },
+      {
+        "appInfo": {
+          "id": 1107,
+          "appKey": "4d56d70dd1ee44c39dee001b738ea0ae",
+          "productId": 154,
+          "productKey": "other.product",
+          "appType": 2,
+          "appName": "我的测试",
+          "appNameEn": "MYTESTLMK",
+          "packageName": null,
+          "bundleId": "com.lmk",
+          "appleId": null,
+          "repository": null,
+          "branch": null,
+          "prefix": "LMK",
+          "applicant": "limengke4",
+          "owner": "limengke4",
+          "createTime": 1607480050000,
+          "updateTime": 1607480391000,
+          "icon": null,
+          "actived": 1,
+          "opened": 0,
+          "locked": 1,
+          "test": 0,
+          "roleKey": "MANAGER"
+        },
+        "subsystemAppKeyMap": {},
+        "subsystemAppIdMap": {
+          "shooter": 1154
+        }
+      },
+      {
+        "appInfo": {
+          "id": 1106,
+          "appKey": "d9628213592447a1a18b77a11dec9962",
+          "productId": 154,
+          "productKey": "other.product",
+          "appType": 1,
+          "appName": "子龙测试应用",
+          "appNameEn": "zilongtest",
+          "packageName": "com.jd.zilongtest",
+          "bundleId": null,
+          "appleId": null,
+          "repository": "http://git.jd.com/zilongtest-amons/zilongtest.git",
+          "branch": "master",
+          "prefix": "bao.lzl",
+          "applicant": "liuzilong6",
+          "owner": "liuzilong6",
+          "createTime": 1607072606000,
+          "updateTime": 1607072910000,
+          "icon": null,
+          "actived": 2,
+          "opened": 0,
+          "locked": 0,
+          "test": 0,
+          "roleKey": "MANAGER"
+        },
+        "subsystemAppKeyMap": {},
+        "subsystemAppIdMap": {
+          "shooter": 1153
+        }
+      },
+      {
+        "appInfo": {
+          "id": 1105,
+          "appKey": "b2a6c9555d9c4ae29a2e6b427d15fef7",
+          "productId": 154,
+          "productKey": "other.product",
+          "appType": 1,
+          "appName": "zl测试应用",
+          "appNameEn": "zilong_test_app",
+          "packageName": "com.jd.zltest.demo",
+          "bundleId": null,
+          "appleId": null,
+          "repository": "git@git.jd.com:zilong_test_app-amons/zilong_test_app.git",
+          "branch": "master",
+          "prefix": "qianzhui",
+          "applicant": "liuzilong6",
+          "owner": "liuzilong6",
+          "createTime": 1606806108000,
+          "updateTime": 1606806382000,
+          "icon": null,
+          "actived": 2,
+          "opened": 0,
+          "locked": 0,
+          "test": 0,
+          "roleKey": "MANAGER"
+        },
+        "subsystemAppKeyMap": {},
+        "subsystemAppIdMap": {
+          "shooter": 1152
+        }
+      },
+      {
+        "appInfo": {
+          "id": 1104,
+          "appKey": "befb30f6ce44497ab56caf01383030d8",
+          "productId": 154,
+          "productKey": "other.product",
+          "appType": 2,
+          "appName": "测试董太太",
+          "appNameEn": "ngdtest",
+          "packageName": null,
+          "bundleId": "com.hh",
+          "appleId": null,
+          "repository": null,
+          "branch": null,
+          "prefix": "NGD",
+          "applicant": "yanghengzhan",
+          "owner": "yanghengzhan",
+          "createTime": 1606715132000,
+          "updateTime": 1606715148000,
+          "icon": null,
+          "actived": 1,
+          "opened": 0,
+          "locked": 0,
+          "test": 0,
+          "roleKey": "MANAGER"
+        },
+        "subsystemAppKeyMap": {},
+        "subsystemAppIdMap": {
+          "shooter": 1151
+        }
+      },
+      {
+        "appInfo": {
+          "id": 1103,
+          "appKey": "9c8b11b2ff554323befa5bdf78aef3cb",
+          "productId": 154,
+          "productKey": "other.product",
+          "appType": 1,
+          "appName": "cloudapptest",
+          "appNameEn": "cloudapptest",
+          "packageName": "com.cloud.test",
+          "bundleId": null,
+          "appleId": null,
+          "repository": null,
+          "branch": "master",
+          "prefix": null,
+          "applicant": "dongliang28",
+          "owner": null,
+          "createTime": 1606468099000,
+          "updateTime": 1606468099000,
+          "icon": null,
+          "actived": 2,
+          "opened": 0,
+          "locked": 0,
+          "test": 0,
+          "roleKey": "MANAGER"
+        },
+        "subsystemAppKeyMap": {},
+        "subsystemAppIdMap": {
+          "shooter": 1150
+        }
+      },
+      {
+        "appInfo": {
+          "id": 1102,
+          "appKey": "49f67ef788d24fb692a70c859191865c",
+          "productId": 154,
+          "productKey": "other.product",
+          "appType": 2,
+          "appName": "测试验证应用",
+          "appNameEn": "changhuanliCC",
+          "packageName": null,
+          "bundleId": "com.cc",
+          "appleId": null,
+          "repository": null,
+          "branch": null,
+          "prefix": "CHLC",
+          "applicant": "yanghengzhan",
+          "owner": "yanghengzhan",
+          "createTime": 1606380164000,
+          "updateTime": 1606380164000,
+          "icon": null,
+          "actived": 2,
+          "opened": 0,
+          "locked": 0,
+          "test": 0,
+          "roleKey": "MANAGER"
+        },
+        "subsystemAppKeyMap": {},
+        "subsystemAppIdMap": {
+          "shooter": 1149
+        }
+      },
+      {
+        "appInfo": {
+          "id": 1101,
+          "appKey": "242800a4d5fa4bd39f8890f78b1b012f",
+          "productId": 154,
+          "productKey": "other.product",
+          "appType": 2,
+          "appName": "常焕丽的",
+          "appNameEn": "changhuanliXX",
+          "packageName": null,
+          "bundleId": "com.dd.ss",
+          "appleId": null,
+          "repository": null,
+          "branch": null,
+          "prefix": "CHL",
+          "applicant": "yanghengzhan",
+          "owner": "yanghengzhan",
+          "createTime": 1606379601000,
+          "updateTime": 1606410103000,
+          "icon": null,
+          "actived": 1,
+          "opened": 0,
+          "locked": 1,
+          "test": 0,
+          "roleKey": "MANAGER"
+        },
+        "subsystemAppKeyMap": {},
+        "subsystemAppIdMap": {
+          "shooter": 1148
+        }
+      },
+      {
+        "appInfo": {
+          "id": 1100,
+          "appKey": "75b54b0d4e4f41be8823e9204996a99e",
+          "productId": 154,
+          "productKey": "other.product",
+          "appType": 1,
+          "appName": "dltest222",
+          "appNameEn": "dl_test222",
+          "packageName": null,
+          "bundleId": null,
+          "appleId": null,
+          "repository": "dltest222",
+          "branch": "master",
+          "prefix": null,
+          "applicant": "dongliang28",
+          "owner": null,
+          "createTime": 1606207989000,
+          "updateTime": 1606207989000,
+          "icon": null,
+          "actived": 2,
+          "opened": 0,
+          "locked": 0,
+          "test": 0,
+          "roleKey": "MANAGER"
+        },
+        "subsystemAppKeyMap": {},
+        "subsystemAppIdMap": {
+          "shooter": 1147
+        }
+      },
+      {
+        "appInfo": {
+          "id": 1099,
+          "appKey": "a5402fdd901a42f0b2180e5526fad38a",
+          "productId": 154,
+          "productKey": "other.product",
+          "appType": 1,
+          "appName": "dltest111",
+          "appNameEn": "dl_test111",
+          "packageName": null,
+          "bundleId": null,
+          "appleId": null,
+          "repository": "dl_test111",
+          "branch": "master",
+          "prefix": null,
+          "applicant": "dongliang28",
+          "owner": null,
+          "createTime": 1606206308000,
+          "updateTime": 1606206308000,
+          "icon": null,
+          "actived": 2,
+          "opened": 0,
+          "locked": 0,
+          "test": 0,
+          "roleKey": "MANAGER"
+        },
+        "subsystemAppKeyMap": {},
+        "subsystemAppIdMap": {
+          "shooter": 1146
+        }
+      },
+      {
+        "appInfo": {
+          "id": 1098,
+          "appKey": "35ffcf594af242d78248424b5de451e7",
+          "productId": 154,
+          "productKey": "other.product",
+          "appType": 1,
+          "appName": "testpermission",
+          "appNameEn": "testpermission",
+          "packageName": null,
+          "bundleId": null,
+          "appleId": null,
+          "repository": "test",
+          "branch": "master",
+          "prefix": null,
+          "applicant": "dongliang28",
+          "owner": null,
+          "createTime": 1606206184000,
+          "updateTime": 1606206184000,
+          "icon": null,
+          "actived": 2,
+          "opened": 0,
+          "locked": 0,
+          "test": 0,
+          "roleKey": "MANAGER"
+        },
+        "subsystemAppKeyMap": {},
+        "subsystemAppIdMap": {
+          "shooter": 1145
+        }
+      },
+      {
+        "appInfo": {
+          "id": 1097,
+          "appKey": "155ce97ba53242008a830d01a4319400",
+          "productId": 154,
+          "productKey": "other.product",
+          "appType": 1,
+          "appName": "testpermission",
+          "appNameEn": "testpermission",
+          "packageName": "com.test",
+          "bundleId": null,
+          "appleId": null,
+          "repository": null,
+          "branch": "master",
+          "prefix": null,
+          "applicant": "dongliang28",
+          "owner": null,
+          "createTime": 1606206067000,
+          "updateTime": 1606206067000,
+          "icon": null,
+          "actived": 2,
+          "opened": 0,
+          "locked": 0,
+          "test": 0,
+          "roleKey": "MANAGER"
+        },
+        "subsystemAppKeyMap": {},
+        "subsystemAppIdMap": {
+          "shooter": 1144
+        }
+      }
+    ],
+    "total": 681,
+    "pages": 35,
+    "pageNum": 1,
+    "pageSize": 20,
+    "isFirstPage": true,
+    "isLastPage": false
+  }
+}

@@ -9,24 +9,43 @@ public class Main {
 
     public static void main(String[] args) {
         Map result = new HashMap();
-        String path = "/Users/limengke1/Desktop/jsondic/src/main/java/test.json";
+        String path = "/Users/limengke1/desktop/test2.json";
         String resultStr = readJsonFile(path);
         JSONObject jsonObject = JSONObject.parseObject(resultStr);
-        if (jsonObject.containsKey("data")) {
-            JSONArray json = jsonObject.getJSONArray("data");
-            if (json != null) {
+        Integer code = 0;
+        String msg = "";
+        if (jsonObject.getString("message").length() > 0){
+            msg = jsonObject.getString("message");
+        }else{
+            msg = "Success";
+        }
 
-                if (json.isEmpty() || json.size() < 1) {
-                    String[] array = new String[0];
-                    result.put("data", array);
-                } else {
+        if (!jsonObject.getString("code").equals("200")){
+            code = Integer.parseInt(jsonObject.getString("code"));
+            if (jsonObject.getString("message").length() > 0){
+                msg = jsonObject.getString("message");
+            }else {
+                msg = "获取失败";
+            }
+
+        }
+
+        result.put("code", code);
+        result.put("msg", msg);
+        if (jsonObject.containsKey("data")){
+            if (jsonObject.getJSONObject("data") != null){
+                JSONObject json = jsonObject.getJSONObject("data");
+                if (json.isEmpty() || json.size() < 1){
+                    HashMap dataMap = new HashMap();
+                    result.put("data", dataMap);
+                }else {
                     result.put("data", json);
                 }
             }
         }
         TreeMap treetest = new TreeMap(result);
         System.out.println(result);
-        System.out.println(treetest);
+//        System.out.println(treetest);
     }
     /**
      * 读取json文件，返回json串
